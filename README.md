@@ -85,7 +85,7 @@ Continue your Python journey with other modules:
 
 **Muhammad Faizan (MF Coder)**  
 🎓 Python Instructor | Data Scientist | Mentor to 5500+ Students  
-📺 [YouTube Channel: MF Coder](https://youtube.com/@MFCoder)  
+📺 [YouTube Channel: MF Coder](https://www.youtube.com/@mf-Coder)  
 💻 [GitHub Profile](https://github.com/Faizan-Ashiq)
 
 ---
